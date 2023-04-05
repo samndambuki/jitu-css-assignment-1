@@ -6,10 +6,11 @@ body{
     display: flex;
     height: 70%;
     width: 50%;
-    border: 1px solid black;
+    border: 2px solid rgb(250, 248, 248);
     margin-left: 20%;
     margin-top: 20px;
     margin-bottom: 10px;
+    border-radius: 35px;
 }
 
 .result{
