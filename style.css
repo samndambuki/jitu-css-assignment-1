@@ -1,0 +1,70 @@
+body{
+    background-color: white;
+}
+
+.container{
+    display: flex;
+    height: 70%;
+    width: 50%;
+    border: 1px solid black;
+    margin-left: 20%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.result{
+    background-color: rgba(95,63,252,255);
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    border-radius: 30px;
+    justify-content: center;
+}
+
+h1.yourresult{
+    margin-left: 30%;
+    margin-top: 10%;
+    color: rgba(205,200,255,255);
+}
+
+.circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: rgba(73,39,211,255);
+    margin-top: 40px;
+    margin-left: 27%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle h1{
+    font-size: 70px;
+    color: rgba(254,252,252,255);
+}
+
+.circle p{
+    color: #8a7cff;
+    margin-top: -30px;
+
+}
+
+.great{
+ display: flex;
+ flex-direction: column;
+ width: 100%;
+ height: 100%;
+}
+
+.great h1{
+    margin-left: 150px;
+    color: rgba(251,252,255,255)
+}
+
+.great p{
+    margin-left: 50px;
+    margin-right: 20px;
+    color: rgba(175,170,255,255);
+}
