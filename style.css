@@ -144,10 +144,10 @@ h1.yourresult{
     padding: 2px;
     border-radius: 20px;
     background-color: #303b59;
-    width: 23rem;
-    height: 5rem;
+    width: 15rem;
+    height: 2rem;
     display: flex;
-    margin-left: 25px;
+    margin-left: 80px;
     margin-top: 30px;
     margin-bottom: 50px;
 }
